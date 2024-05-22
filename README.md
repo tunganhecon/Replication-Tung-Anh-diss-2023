@@ -8,3 +8,4 @@ The data can be obtained from the following sources:
 2. The Composite HWI Help-Wanted index by Barnichon (2010), available on the author's website
 3. The unemployment rate series (UNRATE), obtained from FRED
 
+To run the Stata package, please first place the CPS data files inside data\raw\all_data.
